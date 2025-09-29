@@ -5,6 +5,8 @@ description: Instructions for a final project on global popular music. Includes 
 file: /courses/21m-294-popular-musics-of-the-world-spring-2005/66a7f772b33e807293d72cd8f8c639c0_finalproj.pdf
 file_size: 16920
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

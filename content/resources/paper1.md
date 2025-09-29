@@ -5,6 +5,8 @@ description: Assignment to write a musical analysis comparing two out of three v
 file: /courses/21m-294-popular-musics-of-the-world-spring-2005/b5c9228c25fffe334b162a2e1f5f66aa_paper1.pdf
 file_size: 12009
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -77,7 +77,7 @@ First Exam
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture by Benjamin Herson ({{% resource_link "35118f4d-315b-4bbd-8351-0ad96778ecc0" "Nomadic Wax" %}})
+Guest Lecture by Benjamin Herson ([Nomadic Wax](https://vimeo.com/nomadicwax))
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -106,7 +106,7 @@ Suggested Local Event: Performance by Orchestra Baobab
 
 Creating Anglo-Asian Identity: Bhangra and Bhangramuffin
 
-20-minute Guest Lecture/Demonstration by {{% resource_link "90a303ed-79cc-4e75-a041-0708afc22a23" "MIT Bhangra" %}} Team
+20-minute Guest Lecture/Demonstration by [MIT Bhangra](http://bhangra.mit.edu/) Team
 
 {{< tdclose >}}{{< tdopen >}}
  

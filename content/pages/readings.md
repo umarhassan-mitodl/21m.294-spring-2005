@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: eb4000ce-bd6d-fe68-40b2-ac68a5e8893e
 ---
-This page presents a complete reading list for the course, followed by a table listing the particular {{% resource_link "3dbd5c02-5337-4d86-81ae-a0789de235bd" "assigned readings" %}} for each lecture session.
+This page presents a complete reading list for the course, followed by a table listing the particular [assigned readings](https://ocw-studio.odl.mit.edu/sites/21m-294-popular-musics-of-the-world-spring-2005/type/page/edit/eb4000ce-bd6d-fe68-40b2-ac68a5e8893e/#Assigned_Readings) for each lecture session.
 
 ## Readings List
 
@@ -154,7 +154,7 @@ First Exam
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture by Benjamin Herson ({{% resource_link "35118f4d-315b-4bbd-8351-0ad96778ecc0" "Nomadic Wax" %}})
+Guest Lecture by Benjamin Herson ([Nomadic Wax](https://vimeo.com/nomadicwax))
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -187,7 +187,7 @@ Suggested Local Event: Performance by Orchestra Baobab
 
 Creating Anglo-Asian Identity: Bhangra and Bhangramuffin
 
-20-minute Guest Lecture/Demonstration by {{% resource_link "90a303ed-79cc-4e75-a041-0708afc22a23" "MIT Bhangra" %}} Team
+20-minute Guest Lecture/Demonstration by [MIT Bhangra](http://bhangra.mit.edu/) Team
 
 {{< tdclose >}}{{< tdopen >}}
 

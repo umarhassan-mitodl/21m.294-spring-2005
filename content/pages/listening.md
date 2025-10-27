@@ -37,7 +37,7 @@ World Music and Globalization: Current Perspectives
 
 Positive Black Soul. "Def Lo Xam." *Salaam*. Mango, 1996.
 
-Orchestra Baobab. "Jiin ma jiin ma." [*Specialist in all Styles*](https://www.popmatters.com/orchestra-baobab-specialist-all-styles-2647835491.html). Nonesuch, 2002.
+Orchestra Baobab. "Jiin ma jiin ma." {{% resource_link "081d61d0-66e9-4175-8516-bca41c2c68c4" "*Specialist in all Styles*" %}}. Nonesuch, 2002.
 
 Maal, Baaba. "Gorel." *Firin' in Fouta*. Mango, 1994.
 
@@ -55,7 +55,7 @@ Artists Gone International: Youssou Ndour and the Rise of Senegalese *mbalax*
 
 Etoile de Dakar. "Xalis." *Xalis*. Popular African Music, 1994.
 
-Orchestra Baobab. "Autorail." [*Bamba*](http://www.myspace.com/szczecinmusicfest/music/songs/orchestra-baobab-jin-ma-jin-ma-27968712). Stern's Africa, 1994.
+Orchestra Baobab. "Autorail." {{% resource_link "4b811199-c8d9-4e68-bb5a-6b8c44672892" "*Bamba*" %}}. Stern's Africa, 1994.
 
 N'Dour, Youssou, with Wyclef Jean and Marie-Antonette. "Birima (remix)." *Joko: The Link*. Nonesuch, 2000.
 
@@ -114,7 +114,7 @@ U.S.A. for Africa. "We Are The World." *We Are The* *World*. Polygram, 1985.
 Bono, The Edge, David A. Stewart, Abdel Wright, and Youssou N'Dour. "46664." *Nelson Mandela AIDS* *Concert: Long Walk to Freedom*. Rhino/WEA, 2004.
 
 {{< tdclose >}}{{< tdopen >}}
-*Nelson Mandela AIDS Concert: Long Walk to Freedom* - From a benefit concert for Nelson Mandela's worldwide music-led campaign [46664](https://en.wikipedia.org/wiki/46664) (named after Mandela's former prisoner number), to raise awareness of the devastating impact of AIDS.
+*Nelson Mandela AIDS Concert: Long Walk to Freedom* - From a benefit concert for Nelson Mandela's worldwide music-led campaign {{% resource_link "164e6dd2-2bf3-43db-9707-ad80eb84fbca" "46664" %}} (named after Mandela's former prisoner number), to raise awareness of the devastating impact of AIDS.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -174,7 +174,7 @@ First Exam
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Guest Lecture by Benjamin Herson ([Nomadic Wax](https://en.wikipedia.org/wiki/Nomadic_Wax#:~:text=Nomadic%20Wax%20is%20an%20international,hip%2Dhop%20and%20underground%20music.))
+Guest Lecture by Benjamin Herson ({{% resource_link "21febc6c-bd7d-44f6-82d1-80456bd4af07" "Nomadic Wax" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
@@ -219,7 +219,7 @@ Suggested Local Event: Performance by Orchestra Baobab
 
 Creating Anglo-Asian Identity: Bhangra and Bhangramuffin
 
-20-minute Guest Lecture/Demonstration by [MIT Bhangra](http://bhangra.mit.edu/) Team
+20-minute Guest Lecture/Demonstration by {{% resource_link "616de6b9-ac93-407b-8ba2-bc110b5b5870" "MIT Bhangra" %}} Team
 
 {{< tdclose >}}{{< tdopen >}}
 
